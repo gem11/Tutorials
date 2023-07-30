@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _DataTypes
+namespace DataTypes
 {
     class MainClass
     {
