@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_Classes", "Classes\5_Clas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_DataTypes", "DataTypes\2_DataTypes.csproj", "{A67FA0AC-F65E-4467-9B1F-BAE99F3DC710}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7_ClassesInAction", "ClassesInAction\7_ClassesInAction.csproj", "{3CE80B48-918F-42A5-91FF-5AF08757ED41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6_Exceptions", "Exceptions\6_Exceptions.csproj", "{C61718F8-3185-4878-862F-9198F3888515}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -45,6 +49,14 @@ Global
 		{A67FA0AC-F65E-4467-9B1F-BAE99F3DC710}.Debug|anycpu.Build.0 = Debug|anycpu
 		{A67FA0AC-F65E-4467-9B1F-BAE99F3DC710}.Release|anycpu.ActiveCfg = Release|anycpu
 		{A67FA0AC-F65E-4467-9B1F-BAE99F3DC710}.Release|anycpu.Build.0 = Release|anycpu
+		{3CE80B48-918F-42A5-91FF-5AF08757ED41}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{3CE80B48-918F-42A5-91FF-5AF08757ED41}.Debug|anycpu.Build.0 = Debug|anycpu
+		{3CE80B48-918F-42A5-91FF-5AF08757ED41}.Release|anycpu.ActiveCfg = Release|anycpu
+		{3CE80B48-918F-42A5-91FF-5AF08757ED41}.Release|anycpu.Build.0 = Release|anycpu
+		{C61718F8-3185-4878-862F-9198F3888515}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{C61718F8-3185-4878-862F-9198F3888515}.Debug|anycpu.Build.0 = Debug|anycpu
+		{C61718F8-3185-4878-862F-9198F3888515}.Release|anycpu.ActiveCfg = Release|anycpu
+		{C61718F8-3185-4878-862F-9198F3888515}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
